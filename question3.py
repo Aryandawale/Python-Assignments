@@ -1,10 +1,10 @@
-num1=int(input("Enter a first number: "))
-num2=int(input("Enter a second number: "))
-add=num1+num2
-sub=num1-num2
-mul=num1*num2
-div=num1/num2
-print("addition is :",add)
-print("Subtraction is : ", sub)
-print("Multiplication is: ",mul)
-print("Division is: ",div)
+n=int(input("Enter number :"))
+sum=0
+for i in range(1,n):
+    if n%i==0:
+        sum=sum+i
+
+if n==sum:
+    print("It is a perfect number")
+else:
+    print("It is not perfect number")
