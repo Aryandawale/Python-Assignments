@@ -1,9 +1,9 @@
-# n= int(input("Enter a number :"))
-# sum=n*((n+1)/2)
-# print("sum is : ",sum)
+def ChkGreater():
+    a=int(input("Enter first number: "))
+    b=int(input("Enter second number:"))
+    if a > b:
+     print(a,"is greater")
+    else:
+     print(b" is greater")
 
-n=int(input("Enter a number :"))
-sum=0
-for i in range(1,n+1):
- sum=sum+i
-print(sum)
+ChkGreater()
