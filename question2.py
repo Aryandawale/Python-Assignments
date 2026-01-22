@@ -1,9 +1,3 @@
-def ChkGreater():
-    a=int(input("Enter first number: "))
-    b=int(input("Enter second number:"))
-    if a > b:
-     print(a,"is greater")
-    else:
-     print(b" is greater")
-
-ChkGreater()
+n=input("Enter a number :")
+count=len(n)
+print("length of number is :" ,count)

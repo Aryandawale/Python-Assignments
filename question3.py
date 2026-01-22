@@ -1,3 +1,5 @@
-num=int(input("Enter a number:"))
-sqrt=num*num
-print("square is:",sqrt)
+n=(input("Enter a number : "))
+sum=0
+for i in n:
+ sum=sum+int(i)
+print(sum)
