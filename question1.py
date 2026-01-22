@@ -1,6 +1,7 @@
-n=int(input("Enter a number : "))
-for i in range(2,n):
-    if n%2==0:
-        print("Not Prime")
+character=input("enter a character :")
+if character=='a'or character=='e' or character=='i' or character=='u' or character=='o'\
+    or character=='A' or character=='E' or character=='I'or character=='U'or character=='O':
+    print("It is a vowel")
 else:
- print("Prime Number")
+    print("It is not vowel")   
+   

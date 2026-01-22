@@ -1,3 +1,5 @@
-n=input("Enter a number :")
-count=len(n)
-print("length of number is :" ,count)
+n=int(input("Enter number:"))
+print("Factors are:")
+for i in range(1,n+1):
+    if(n%i==0):
+        print(i)
