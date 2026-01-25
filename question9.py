@@ -1,2 +1,4 @@
-multiply=lambda x,y :x*y
-print(multiply(2,5))
+from functools import reduce
+num=[2,3,4]
+product=reduce(lambda x,y:x*y ,num)
+print(product)

@@ -1,2 +1,3 @@
-max_value=lambda a,b: max(a,b)
-print(max_value(40,25))
+num=[1,2,3,4,5,6,7]
+odd_num= list(filter(lambda x: x%2!=0,num))
+print(odd_num)

@@ -1,3 +1,3 @@
-divisible = lambda a:  a%5==0 
-print(divisible(35))
-print(divisible(24))
+string=["mango","apple","banana","pineapple","kiwi","cherry"]
+name=list(filter(lambda x: len(x)>5 ,string))
+print(name)
