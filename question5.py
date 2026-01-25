@@ -1,9 +1,2 @@
-marks=int(input("Enter a marks :"))
-if(marks>=75):
-    print("Distinction")
-elif(marks>=60):
-    print("First Class")
-elif(marks>=50):
-    print("Second Class")
-elif(marks<50):
-    print("Fail")
+even=lambda x: True if x%2==0 else False
+print(even(4))
