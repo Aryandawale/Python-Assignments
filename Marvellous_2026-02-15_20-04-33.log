@@ -1,0 +1,1589 @@
+--------------------------------------------------
+---- Marvellous Platform Surveillance System -----
+Log created at : Sun Feb 15 20:04:33 2026
+--------------------------------------------------
+
+Process Name : System Idle Process
+PID          : 0
+CPU %       : 87.67
+Memory %    : 0.0
+Threads      : 36
+----------------------------------------
+Process Name : System
+PID          : 4
+CPU %       : 0.38
+Memory %    : 0.04
+Threads      : 287
+----------------------------------------
+Process Name : 
+PID          : 188
+CPU %       : 0.0
+Memory %    : 0.39
+Threads      : 0
+----------------------------------------
+Process Name : ctfmon.exe
+PID          : 204
+CPU %       : 0.0
+Memory %    : 0.21
+Threads      : 12
+----------------------------------------
+Process Name : Registry
+PID          : 232
+CPU %       : 0.0
+Memory %    : 0.37
+Threads      : 4
+----------------------------------------
+Process Name : msedge.exe
+PID          : 656
+CPU %       : 0.0
+Memory %    : 0.4
+Threads      : 23
+----------------------------------------
+Process Name : smss.exe
+PID          : 712
+CPU %       : 0.0
+Memory %    : 0.0
+Threads      : 2
+----------------------------------------
+Process Name : AsusOptimization.exe
+PID          : 776
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 15
+----------------------------------------
+Process Name : svchost.exe
+PID          : 892
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 7
+----------------------------------------
+Process Name : csrss.exe
+PID          : 1056
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 14
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1140
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : wininit.exe
+PID          : 1144
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 2
+----------------------------------------
+Process Name : msedge.exe
+PID          : 1180
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 8
+----------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 1208
+CPU %       : 0.0
+Memory %    : 0.28
+Threads      : 12
+----------------------------------------
+Process Name : services.exe
+PID          : 1288
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 9
+----------------------------------------
+Process Name : LsaIso.exe
+PID          : 1308
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 1
+----------------------------------------
+Process Name : lsass.exe
+PID          : 1316
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 10
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1332
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1344
+CPU %       : 0.0
+Memory %    : 0.12
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1452
+CPU %       : 0.0
+Memory %    : 0.33
+Threads      : 15
+----------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 1460
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 5
+----------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1556
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 10
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1616
+CPU %       : 0.43
+Memory %    : 0.13
+Threads      : 10
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1692
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 6
+----------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1716
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 21
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 1804
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 20
+----------------------------------------
+Process Name : svchost.exe
+PID          : 1832
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 10
+----------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1900
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 11
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2012
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2020
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 4
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2044
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 10
+----------------------------------------
+Process Name : ChatGPT.exe
+PID          : 2060
+CPU %       : 0.0
+Memory %    : 0.94
+Threads      : 56
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2164
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2172
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 4
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2212
+CPU %       : 0.12
+Memory %    : 0.04
+Threads      : 11
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2288
+CPU %       : 0.37
+Memory %    : 0.24
+Threads      : 5
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 2304
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2340
+CPU %       : 0.0
+Memory %    : 0.12
+Threads      : 24
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2356
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2364
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 7
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2372
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 8
+----------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID          : 2384
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2392
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2400
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 15
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2404
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 9
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2500
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 12
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2696
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 10
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2820
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 2868
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 6
+----------------------------------------
+Process Name : Intel_PIE_Service.exe
+PID          : 2952
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 13
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 2956
+CPU %       : 0.0
+Memory %    : 0.17
+Threads      : 2
+----------------------------------------
+Process Name : Copilot.exe
+PID          : 2964
+CPU %       : 0.0
+Memory %    : 1.14
+Threads      : 26
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3036
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3096
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 2
+----------------------------------------
+Process Name : msedge.exe
+PID          : 3108
+CPU %       : 0.22
+Memory %    : 0.65
+Threads      : 25
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3228
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 11
+----------------------------------------
+Process Name : conhost.exe
+PID          : 3296
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3364
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 9
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3372
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3412
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 13
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3460
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3528
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3556
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 2
+----------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 3576
+CPU %       : 0.0
+Memory %    : 0.13
+Threads      : 12
+----------------------------------------
+Process Name : FileSyncHelper.exe
+PID          : 3604
+CPU %       : 0.0
+Memory %    : 0.14
+Threads      : 8
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 3620
+CPU %       : 0.0
+Memory %    : 0.32
+Threads      : 47
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3652
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3660
+CPU %       : 0.4
+Memory %    : 0.11
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3676
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 4
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3736
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3840
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 3
+----------------------------------------
+Process Name : MemCompression
+PID          : 3864
+CPU %       : 0.1
+Memory %    : 6.28
+Threads      : 98
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3932
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 3996
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 7
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4004
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 7
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4120
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 4
+----------------------------------------
+Process Name : WhatsApp.Root.exe
+PID          : 4132
+CPU %       : 0.0
+Memory %    : 1.4
+Threads      : 36
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 4176
+CPU %       : 0.0
+Memory %    : 0.2
+Threads      : 19
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4196
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 14
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4252
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 6
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 4372
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 26
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4428
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 8
+----------------------------------------
+Process Name : spoolsv.exe
+PID          : 4456
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4464
+CPU %       : 0.0
+Memory %    : 0.2
+Threads      : 17
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4540
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 16
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4636
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 7
+----------------------------------------
+Process Name : dwm.exe
+PID          : 4644
+CPU %       : 0.63
+Memory %    : 0.98
+Threads      : 21
+----------------------------------------
+Process Name : MoNotificationUx.exe
+PID          : 4648
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 1
+----------------------------------------
+Process Name : jhi_service.exe
+PID          : 4756
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 2
+----------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 4824
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 9
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4852
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4944
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4952
+CPU %       : 0.17
+Memory %    : 0.42
+Threads      : 13
+----------------------------------------
+Process Name : svchost.exe
+PID          : 4960
+CPU %       : 0.0
+Memory %    : 0.3
+Threads      : 18
+----------------------------------------
+Process Name : DAX3API.exe
+PID          : 4968
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 52
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5008
+CPU %       : 0.0
+Memory %    : 0.21
+Threads      : 11
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5012
+CPU %       : 0.0
+Memory %    : 0.17
+Threads      : 11
+----------------------------------------
+Process Name : GlideXRemoteService.exe
+PID          : 5020
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 5
+----------------------------------------
+Process Name : GlideXNearService.exe
+PID          : 5028
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 15
+----------------------------------------
+Process Name : ipfsvc.exe
+PID          : 5040
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 8
+----------------------------------------
+Process Name : OneApp.IGCC.WinService.exe
+PID          : 5048
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 6
+----------------------------------------
+Process Name : GlideXServiceExt.exe
+PID          : 5092
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 4
+----------------------------------------
+Process Name : IntelAudioService.exe
+PID          : 5100
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 8
+----------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 5172
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 31
+----------------------------------------
+Process Name : RstMwService.exe
+PID          : 5188
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 9
+----------------------------------------
+Process Name : mc-fw-host.exe
+PID          : 5248
+CPU %       : 1.53
+Memory %    : 1.3
+Threads      : 179
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5260
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : GlideXService.exe
+PID          : 5316
+CPU %       : 0.08
+Memory %    : 0.04
+Threads      : 17
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5324
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5340
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 8
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 5376
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 54
+----------------------------------------
+Process Name : servicehost.exe
+PID          : 5392
+CPU %       : 0.55
+Memory %    : 0.19
+Threads      : 124
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5408
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 12
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5420
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 2
+----------------------------------------
+Process Name : ChatGPT.exe
+PID          : 5532
+CPU %       : 0.0
+Memory %    : 4.42
+Threads      : 25
+----------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 5552
+CPU %       : 0.0
+Memory %    : 0.52
+Threads      : 20
+----------------------------------------
+Process Name : WMIRegistrationService.exe
+PID          : 5560
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 2
+----------------------------------------
+Process Name : ipf_uf.exe
+PID          : 5572
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 5592
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 7
+----------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 5836
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 11
+----------------------------------------
+Process Name : svchost.exe
+PID          : 5924
+CPU %       : 0.07
+Memory %    : 0.03
+Threads      : 6
+----------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 6320
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 6
+----------------------------------------
+Process Name : svchost.exe
+PID          : 6460
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 4
+----------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 6584
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 6728
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 6848
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 6904
+CPU %       : 0.0
+Memory %    : 0.13
+Threads      : 13
+----------------------------------------
+Process Name : msedge.exe
+PID          : 6936
+CPU %       : 0.0
+Memory %    : 0.54
+Threads      : 26
+----------------------------------------
+Process Name : NgcIso.exe
+PID          : 7016
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 1
+----------------------------------------
+Process Name : AsusSystemAnalysis.exe
+PID          : 7092
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 7
+----------------------------------------
+Process Name : msedge.exe
+PID          : 7372
+CPU %       : 0.0
+Memory %    : 0.27
+Threads      : 21
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 7580
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 56
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 8468
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 13
+----------------------------------------
+Process Name : svchost.exe
+PID          : 8640
+CPU %       : 0.07
+Memory %    : 0.15
+Threads      : 7
+----------------------------------------
+Process Name : msedge.exe
+PID          : 8888
+CPU %       : 0.0
+Memory %    : 1.29
+Threads      : 65
+----------------------------------------
+Process Name : wlanext.exe
+PID          : 9020
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 6
+----------------------------------------
+Process Name : svchost.exe
+PID          : 9372
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 2
+----------------------------------------
+Process Name : mc-neo-host.exe
+PID          : 9424
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 8
+----------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 9560
+CPU %       : 0.0
+Memory %    : 0.24
+Threads      : 24
+----------------------------------------
+Process Name : svchost.exe
+PID          : 9644
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 10
+----------------------------------------
+Process Name : Code.exe
+PID          : 9648
+CPU %       : 2.85
+Memory %    : 1.75
+Threads      : 23
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 9996
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 23
+----------------------------------------
+Process Name : conhost.exe
+PID          : 10020
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 2
+----------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID          : 10484
+CPU %       : 0.21
+Memory %    : 1.21
+Threads      : 21
+----------------------------------------
+Process Name : winlogon.exe
+PID          : 10500
+CPU %       : 0.0
+Memory %    : 0.15
+Threads      : 4
+----------------------------------------
+Process Name : AsusOptimizationStartupTask.exe
+PID          : 10640
+CPU %       : 0.0
+Memory %    : 0.14
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 10876
+CPU %       : 0.0
+Memory %    : 0.15
+Threads      : 6
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11244
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 8
+----------------------------------------
+Process Name : svchost.exe
+PID          : 11424
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 11492
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 2
+----------------------------------------
+Process Name : Code.exe
+PID          : 11944
+CPU %       : 7.94
+Memory %    : 2.66
+Threads      : 17
+----------------------------------------
+Process Name : powershell.exe
+PID          : 11952
+CPU %       : 0.0
+Memory %    : 0.37
+Threads      : 12
+----------------------------------------
+Process Name : svchost.exe
+PID          : 12196
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 12224
+CPU %       : 0.0
+Memory %    : 0.13
+Threads      : 16
+----------------------------------------
+Process Name : LockApp.exe
+PID          : 12708
+CPU %       : 0.0
+Memory %    : 0.51
+Threads      : 17
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 12728
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 2
+----------------------------------------
+Process Name : msedge.exe
+PID          : 12784
+CPU %       : 0.0
+Memory %    : 0.22
+Threads      : 15
+----------------------------------------
+Process Name : csrss.exe
+PID          : 12804
+CPU %       : 0.07
+Memory %    : 0.05
+Threads      : 14
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 12964
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 26
+----------------------------------------
+Process Name : msedge.exe
+PID          : 13036
+CPU %       : 0.0
+Memory %    : 0.68
+Threads      : 23
+----------------------------------------
+Process Name : Code.exe
+PID          : 13156
+CPU %       : 0.0
+Memory %    : 0.61
+Threads      : 8
+----------------------------------------
+Process Name : python.exe
+PID          : 13184
+CPU %       : 7.17
+Memory %    : 0.12
+Threads      : 4
+----------------------------------------
+Process Name : svchost.exe
+PID          : 13580
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 5
+----------------------------------------
+Process Name : Code.exe
+PID          : 13656
+CPU %       : 0.4
+Memory %    : 1.18
+Threads      : 19
+----------------------------------------
+Process Name : WaaSMedicAgent.exe
+PID          : 14064
+CPU %       : 0.0
+Memory %    : 0.0
+Threads      : 9
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 14264
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 18
+----------------------------------------
+Process Name : OneDrive.exe
+PID          : 14552
+CPU %       : 3.7
+Memory %    : 1.05
+Threads      : 44
+----------------------------------------
+Process Name : svchost.exe
+PID          : 14800
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 4
+----------------------------------------
+Process Name : Widgets.exe
+PID          : 15036
+CPU %       : 0.0
+Memory %    : 0.44
+Threads      : 17
+----------------------------------------
+Process Name : pet.exe
+PID          : 15224
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 1
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 15284
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 1
+----------------------------------------
+Process Name : msedge.exe
+PID          : 15324
+CPU %       : 0.0
+Memory %    : 0.25
+Threads      : 21
+----------------------------------------
+Process Name : Code.exe
+PID          : 15592
+CPU %       : 0.0
+Memory %    : 0.68
+Threads      : 26
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 16288
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 3
+----------------------------------------
+Process Name : DAX3API.exe
+PID          : 16444
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 6
+----------------------------------------
+Process Name : conhost.exe
+PID          : 16448
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 16548
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 16588
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 7
+----------------------------------------
+Process Name : Code.exe
+PID          : 16596
+CPU %       : 0.0
+Memory %    : 0.68
+Threads      : 23
+----------------------------------------
+Process Name : mc-vpn.exe
+PID          : 17024
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 29
+----------------------------------------
+Process Name : ChatGPT.exe
+PID          : 17276
+CPU %       : 0.0
+Memory %    : 1.01
+Threads      : 23
+----------------------------------------
+Process Name : svchost.exe
+PID          : 17924
+CPU %       : 0.0
+Memory %    : 0.09
+Threads      : 3
+----------------------------------------
+Process Name : msedge.exe
+PID          : 17944
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 11
+----------------------------------------
+Process Name : svchost.exe
+PID          : 18044
+CPU %       : 0.0
+Memory %    : 0.18
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 18256
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 9
+----------------------------------------
+Process Name : svchost.exe
+PID          : 18356
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 5
+----------------------------------------
+Process Name : msedge.exe
+PID          : 18568
+CPU %       : 0.0
+Memory %    : 0.38
+Threads      : 25
+----------------------------------------
+Process Name : svchost.exe
+PID          : 18772
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 4
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 18964
+CPU %       : 0.0
+Memory %    : 0.0
+Threads      : 10
+----------------------------------------
+Process Name : AsusScreenXpertHostService.exe
+PID          : 19032
+CPU %       : 0.0
+Memory %    : 0.17
+Threads      : 4
+----------------------------------------
+Process Name : Code.exe
+PID          : 19048
+CPU %       : 0.12
+Memory %    : 0.69
+Threads      : 29
+----------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 19232
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 6
+----------------------------------------
+Process Name : ShellHost.exe
+PID          : 19392
+CPU %       : 0.0
+Memory %    : 0.3
+Threads      : 6
+----------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 19412
+CPU %       : 0.0
+Memory %    : 0.07
+Threads      : 1
+----------------------------------------
+Process Name : unsecapp.exe
+PID          : 19512
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 3
+----------------------------------------
+Process Name : svchost.exe
+PID          : 19588
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 6
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 19624
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 7
+----------------------------------------
+Process Name : svchost.exe
+PID          : 20176
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 20332
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 20376
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 18
+----------------------------------------
+Process Name : AsusSystemDiagnosis.exe
+PID          : 20988
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 2
+----------------------------------------
+Process Name : AsusSoftwareManager.exe
+PID          : 21148
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 23
+----------------------------------------
+Process Name : Code.exe
+PID          : 21184
+CPU %       : 0.12
+Memory %    : 1.01
+Threads      : 54
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 21312
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 2
+----------------------------------------
+Process Name : AsusSwitch.exe
+PID          : 21316
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 7
+----------------------------------------
+Process Name : SearchHost.exe
+PID          : 21372
+CPU %       : 0.0
+Memory %    : 1.11
+Threads      : 26
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 21376
+CPU %       : 0.0
+Memory %    : 0.26
+Threads      : 24
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 21392
+CPU %       : 0.0
+Memory %    : 0.13
+Threads      : 3
+----------------------------------------
+Process Name : sihost.exe
+PID          : 21440
+CPU %       : 0.0
+Memory %    : 0.32
+Threads      : 12
+----------------------------------------
+Process Name : msedge.exe
+PID          : 21612
+CPU %       : 0.0
+Memory %    : 0.17
+Threads      : 10
+----------------------------------------
+Process Name : WaaSMedicAgent.exe
+PID          : 21772
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 10
+----------------------------------------
+Process Name : Code.exe
+PID          : 22016
+CPU %       : 0.0
+Memory %    : 0.31
+Threads      : 18
+----------------------------------------
+Process Name : conhost.exe
+PID          : 22096
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 2
+----------------------------------------
+Process Name : explorer.exe
+PID          : 22480
+CPU %       : 3.77
+Memory %    : 2.01
+Threads      : 101
+----------------------------------------
+Process Name : msedge.exe
+PID          : 22544
+CPU %       : 0.0
+Memory %    : 0.43
+Threads      : 26
+----------------------------------------
+Process Name : TextInputHost.exe
+PID          : 22716
+CPU %       : 0.0
+Memory %    : 1.15
+Threads      : 38
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 23240
+CPU %       : 0.0
+Memory %    : 0.12
+Threads      : 9
+----------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 23424
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 3
+----------------------------------------
+Process Name : conhost.exe
+PID          : 23492
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 2
+----------------------------------------
+Process Name : svchost.exe
+PID          : 23596
+CPU %       : 0.0
+Memory %    : 0.29
+Threads      : 7
+----------------------------------------
+Process Name : uihost.exe
+PID          : 23612
+CPU %       : 0.0
+Memory %    : 0.17
+Threads      : 64
+----------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 23628
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 14
+----------------------------------------
+Process Name : msedge.exe
+PID          : 23732
+CPU %       : 0.0
+Memory %    : 0.29
+Threads      : 20
+----------------------------------------
+Process Name : AsusAppService.exe
+PID          : 23812
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 4
+----------------------------------------
+Process Name : AsusOSD.exe
+PID          : 23940
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 8
+----------------------------------------
+Process Name : ChatGPT.exe
+PID          : 24072
+CPU %       : 0.0
+Memory %    : 0.21
+Threads      : 7
+----------------------------------------
+Process Name : svchost.exe
+PID          : 24096
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 9
+----------------------------------------
+Process Name : TabTip.exe
+PID          : 24292
+CPU %       : 0.0
+Memory %    : 0.37
+Threads      : 9
+----------------------------------------
+Process Name : SecurityHealthSystray.exe
+PID          : 24300
+CPU %       : 0.0
+Memory %    : 0.08
+Threads      : 1
+----------------------------------------
+Process Name : msedge.exe
+PID          : 24480
+CPU %       : 0.0
+Memory %    : 0.38
+Threads      : 26
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 24568
+CPU %       : 0.0
+Memory %    : 0.15
+Threads      : 13
+----------------------------------------
+Process Name : CrossDeviceService.exe
+PID          : 24652
+CPU %       : 0.0
+Memory %    : 0.83
+Threads      : 23
+----------------------------------------
+Process Name : svchost.exe
+PID          : 24672
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 5
+----------------------------------------
+Process Name : svchost.exe
+PID          : 25004
+CPU %       : 0.0
+Memory %    : 0.15
+Threads      : 10
+----------------------------------------
+Process Name : msedge.exe
+PID          : 25284
+CPU %       : 0.0
+Memory %    : 0.27
+Threads      : 23
+----------------------------------------
+Process Name : msedge.exe
+PID          : 25524
+CPU %       : 0.0
+Memory %    : 0.29
+Threads      : 22
+----------------------------------------
+Process Name : conhost.exe
+PID          : 25640
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 5
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 25808
+CPU %       : 0.0
+Memory %    : 0.59
+Threads      : 16
+----------------------------------------
+Process Name : AppActions.exe
+PID          : 26152
+CPU %       : 0.0
+Memory %    : 0.25
+Threads      : 7
+----------------------------------------
+Process Name : Code.exe
+PID          : 26332
+CPU %       : 0.0
+Memory %    : 0.21
+Threads      : 7
+----------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 26444
+CPU %       : 0.0
+Memory %    : 0.04
+Threads      : 5
+----------------------------------------
+Process Name : WaaSMedicAgent.exe
+PID          : 26640
+CPU %       : 0.0
+Memory %    : 0.1
+Threads      : 8
+----------------------------------------
+Process Name : AsusScreenXpertUI.exe
+PID          : 26720
+CPU %       : 0.0
+Memory %    : 0.11
+Threads      : 3
+----------------------------------------
+Process Name : ipf_helper.exe
+PID          : 27180
+CPU %       : 0.0
+Memory %    : 0.05
+Threads      : 4
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 27384
+CPU %       : 0.0
+Memory %    : 3.25
+Threads      : 30
+----------------------------------------
+Process Name : taskhostw.exe
+PID          : 27564
+CPU %       : 0.0
+Memory %    : 0.14
+Threads      : 7
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 27652
+CPU %       : 0.0
+Memory %    : 1.01
+Threads      : 54
+----------------------------------------
+Process Name : AsusSoftwareManagerAgent.exe
+PID          : 27820
+CPU %       : 0.0
+Memory %    : 0.31
+Threads      : 7
+----------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 27872
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 13
+----------------------------------------
+Process Name : ChatGPT.exe
+PID          : 28376
+CPU %       : 0.0
+Memory %    : 0.37
+Threads      : 20
+----------------------------------------
+Process Name : CrossDeviceResume.exe
+PID          : 28504
+CPU %       : 0.0
+Memory %    : 0.33
+Threads      : 6
+----------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 28632
+CPU %       : 0.0
+Memory %    : 0.01
+Threads      : 9
+----------------------------------------
+Process Name : SearchProtocolHost.exe
+PID          : 28660
+CPU %       : 0.0
+Memory %    : 0.12
+Threads      : 11
+----------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 28788
+CPU %       : 0.0
+Memory %    : 0.06
+Threads      : 7
+----------------------------------------
+Process Name : Code.exe
+PID          : 28856
+CPU %       : 0.27
+Memory %    : 1.19
+Threads      : 23
+----------------------------------------
+Process Name : msedge.exe
+PID          : 28892
+CPU %       : 0.0
+Memory %    : 0.93
+Threads      : 26
+----------------------------------------
+Process Name : mc-fw-host.exe
+PID          : 28936
+CPU %       : 0.0
+Memory %    : 0.16
+Threads      : 46
+----------------------------------------
+Process Name : svchost.exe
+PID          : 28976
+CPU %       : 0.0
+Memory %    : 0.03
+Threads      : 2
+----------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 29012
+CPU %       : 0.0
+Memory %    : 1.06
+Threads      : 21
+----------------------------------------
+Process Name : FileCoAuth.exe
+PID          : 29136
+CPU %       : 1.73
+Memory %    : 0.26
+Threads      : 11
+----------------------------------------
+Process Name : WidgetService.exe
+PID          : 29300
+CPU %       : 0.0
+Memory %    : 0.18
+Threads      : 5
+----------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 29352
+CPU %       : 0.0
+Memory %    : 0.28
+Threads      : 5
+----------------------------------------
+Process Name : SystemSettings.exe
+PID          : 29452
+CPU %       : 0.0
+Memory %    : 0.02
+Threads      : 46
+----------------------------------------
+Process Name : powershell.exe
+PID          : 29620
+CPU %       : 0.0
+Memory %    : 0.6
+Threads      : 15
+----------------------------------------
